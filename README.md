@@ -1,6 +1,6 @@
 # Api rest golang
 
-This is a small Api rest project build on go with the ORM framework Gorm and mux a http requester
+This is a small Api rest project build in go with the ORM framework Gorm and mux a http requester
 
 ## Tools used in the project
 
