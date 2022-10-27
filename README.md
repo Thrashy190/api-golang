@@ -4,8 +4,6 @@ This is a small Api rest project build on go with the ORM framework Gorm and mux
 
 ## Tools used in the project
 
-***
-
 I use the 4 tools in the project development
 
 - [Mux](https://github.com/gorilla/mux)
